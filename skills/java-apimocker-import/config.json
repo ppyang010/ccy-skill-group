@@ -1,0 +1,13 @@
+{
+  "userToken": "da88bf20315fa66db78b23f853643dcf",
+  "projects": [
+    {
+      "name": "exam-tod",
+      "groupId": "5cd1246befcdb713791d3039",
+      "projectToken": "0189002e1770451d4cdab50500c5bbdf92542477",
+      "uploadBaseUrl": "https://f2e.dxy.net/mock",
+      "uploadPathTemplate": "/open/api/autoImport/:groupId"
+    }
+  ],
+  "defaultProject": "exam-tod"
+}
